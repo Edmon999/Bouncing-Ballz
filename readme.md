@@ -10,8 +10,9 @@ Bouncing Ballz is a micro physics simulator implemented using HTML5 canvas and J
 
 To clone the repository, run the following command in your terminal:
 
-git clone [<url>](https://github.com/Edmon999/Bouncing-Ballz.git)
-
+```bash
+git clone https://github.com/Edmon999/Bouncing-Ballz.git
+```
 
 ### Installation
 
@@ -27,9 +28,11 @@ npm install
 ```bash
 npm run gg
 ```
+
+This will start a development server and open the application in your browser at http://localhost:8080
+
 ### Build the project
 
 ```bash
 npm run build
 ```
-
