@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "gg": "webpack-dev-server",
+    "gg": "npm run build && webpack-dev-server",
     "build": "webpack"
   },
   "author": "",
